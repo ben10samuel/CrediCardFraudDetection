@@ -2,9 +2,7 @@
 # Explainable AI-Driven Financial Transaction Fraud Detection using Machine Learning
 
 Author – Ben George Samuel
-Student ID – 02078919
-Project Advisor – Donghui Yan
-Date – 23rd August,2024
+
 
 
 ## Abstract
